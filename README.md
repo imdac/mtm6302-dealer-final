@@ -1,2 +1,4 @@
-# mtm6302-dealer
-This repository contains the starter files for the Dealer project.
+# Dealer
+
+## Object
+Create a computerize dealer that will deal out 5 or 7 cards and allow the player to draw up to 3 new cards. 
