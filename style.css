@@ -4,6 +4,7 @@
   flex-wrap: wrap;
 
   padding: 30px 0;
+  min-height: 336px;
 
   border-bottom: 2px dashed #ccc;
 }
